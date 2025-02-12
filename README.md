@@ -78,8 +78,4 @@ Go to `http://localhost:3000/` (or the appropriate port) to access the applicati
 ## License
 This project is licensed under the MIT License.
 
----
-### Notes:
-- Update the **repository URL** before using this file.
-- Add more details to the **tech stack** based on your final implementation.
 
